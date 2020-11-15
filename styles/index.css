@@ -1,7 +1,7 @@
 @tailwind base;
 
 /* Write your own custom base styles here */
-body {
+.markdown {
   font-size: 2em;
 }
 
