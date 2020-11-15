@@ -37,6 +37,9 @@ export default function Meta() {
         content=""
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+      </style>
     </Head>
   )
 }
