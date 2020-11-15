@@ -9,7 +9,6 @@ export default function MoreStories({ posts }) {
             key={post.slug}
             title={post.title}
             date={post.date}
-            author={post.author}	
             slug={post.slug}
             excerpt={post.excerpt}
           />
