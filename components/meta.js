@@ -33,10 +33,13 @@ export default function Meta() {
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
-        name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
+        name=""
+        content=""
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
+      </style>
     </Head>
   )
 }

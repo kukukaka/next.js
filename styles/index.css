@@ -1,6 +1,10 @@
 @tailwind base;
 
 /* Write your own custom base styles here */
+.cuerpo {
+  font-family: 'Vollkorn', serif;
+  }
+
 
 /* Start purging... */
 @tailwind components;

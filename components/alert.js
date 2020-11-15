@@ -25,12 +25,12 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              People still dying in the Mediterraneand. {' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`https://www.openarms.es/`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
-                available on GitHub
+                Help them
               </a>
               .
             </>
