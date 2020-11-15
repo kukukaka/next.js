@@ -1,17 +1,13 @@
-import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import PostTitle from '../components/post-title'
 
-export default function PostHeader({ title, date, author }) {
+export default function PostHeader({ title, date }) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
       <div className="max-w-2xl mx-auto">
-        <div className="block md:hidden mb-6">
-          <Avatar name={author.name} picture={author.picture} />
-        </div>
         <div className="mb-6 text-lg">
-          <DateFormatter dateString={date} />
+          <em><DateFormatter dateString={date} /></em>
         </div>
       </div>
     </>
