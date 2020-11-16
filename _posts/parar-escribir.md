@@ -1,18 +1,21 @@
 ---
-title: '¿Cuándo pare de escribir?'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-date: '2020-03-16T05:35:07.322Z'
+title: '¿Cuándo deje de escribir**?
+'
+excerpt: 'Recuerdo la charla de Puño hace muchos años en un evento de diseño en Madrid. Todos esperábamos media hora sobre cómo aprender a dibujar, la espinita clavada de cualquier diseñador digital, pero sin embargo empezó de una forma distinta. “Todos dibujamos cuando somos pequeños. La pregunta no es: ¿cómo empiezo a dibujar?; la pregunta es: ¿en qué momento he dejado de dibujar?'
+date: '2020-11-16T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: kukukaka
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Recuerdo la charla de Puño hace muchos años en un evento de diseño en Madrid. Todos esperábamos media hora sobre cómo aprender a dibujar, la espinita clavada de cualquier diseñador digital, pero sin embargo empezó de una forma distinta. “Todos dibujamos cuando somos pequeños. La pregunta no es: ¿cómo empiezo a dibujar?; la pregunta es: ¿en qué momento he dejado de dibujar?
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Yo creo que nunca he escrito demasiado bien. Es cierto que estudié Periodismo y he ganado bastantes salarios mejores o peores dedicándome a poner palabras seguidas, pero nunca he sido muy académica en la forma frente al ritmo o el contenido. Pero he escrito mucho durante mi vida. Bueno, realmente escribí mucho. Durante los últimos 10 años apenas he escrito nada, y expresarme en español escrito a día de hoy me cuesta horrores.
 
-## Lorem Ipsum
+Encontrar un hueco en una profesión como el diseño digital tiene cosas tan buenas como la seguridad laboral y poder vivir en distintos países, algo que el Periodismo tan ligado al idioma y al lenguaje nunca me hubiese permitido tanto. Pero todo tiene sus virtudes y sus defectos y uno de estos últimos es que en la última década apenas he escrito algunos micro textos para dar la bienvenida a un nuevo usuario en una red social o tranquilizar al usuario de una aplicación móvil de un banco. Pero he hablado mucho sobre lenguaje: he dado la caca hasta la extenuación a equipos de marketing sobre “claiming”s que creía que no comunicaban bien el producto para el que trabajaba o me he tirado horas debatiendo que palabra era la más exacta para poner en un botón que ni si quiera sabíamos si alguien iba a pulsar.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+La pasada semana le comenté a un par de amigos que quería escribir un poco todos los días. Sin ser algo super emocionante creo que todos me han preguntado que para qué. Realmente no hay un objetivo. Realmente creo que el objetivo es precisamente por primera vez en muchos años no tener un objetivo. 
+Hacer algo porque me apetece y no medirlo esperar un impacto. Es una de las mismas razones por las que apenas tengo una docena de las miles de fotos que he sacado durante los últimos 20 años publicadas online. Es una afición muy personal y no creo que el Internet actual basado en likes, comentarios y opinión en una carrera al reconocimiento ensucie un poco algo que hago sólo para mi. 
+
+Voy a intentar escribir todos los días. Me gusta esa sensación de poder tener un micro sitio en Internet en el que volver a poder ser más bobalicón. Un sitio en el que compartir que he descubierto una canción que todo el mundo ya conocía y estar igualmente emocionado. Donde poder compartir algo como esto sin tener que acompañarlo de un análisis sesudo de media docena de enlaces a artículos de diseño que espero que nadie haya leído antes. Hablar de cosas importantes para mi sin tener que pretender que soy un experto o me ha cambiado la vida. 
