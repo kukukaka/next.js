@@ -25,7 +25,7 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              People are dying in the Mediterraneand. {' '}
+              People are dying in the Mediterranean. {' '}
               <a
                 href={`https://www.openarms.es/`}
                 className="underline hover:text-success duration-200 transition-colors"
