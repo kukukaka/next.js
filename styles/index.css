@@ -2,8 +2,12 @@
 
 /* Write your own custom base styles here */
 .cuerpo {
-  font-family: 'Vollkorn', serif;
+  font-family: 'Libre Baskerville', serif;
   }
+
+.cabeza {
+  font-family: 'Libre Franklin', sans-serif;
+} 
 
 
 /* Start purging... */
