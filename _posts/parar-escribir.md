@@ -5,8 +5,6 @@ excerpt: 'Recuerdo la charla de Puño hace muchos años en un evento de diseño 
 date: '2020-11-16T05:35:07.322Z'
 author:
   name: kukukaka
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 Recuerdo la charla de Puño hace muchos años en un evento de diseño en Madrid. Todos esperábamos media hora sobre cómo aprender a dibujar, la espinita clavada de cualquier diseñador digital, pero sin embargo empezó de una forma distinta. “Todos dibujamos cuando somos pequeños. La pregunta no es: ¿cómo empiezo a dibujar?; la pregunta es: ¿en qué momento he dejado de dibujar?
