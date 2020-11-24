@@ -2,7 +2,11 @@
 
 /* Write your own custom base styles here */
 .cuerpo {
+<<<<<<< Updated upstream
   font-family: 'Libre Baskerville', serif;
+=======
+  font-family: 'Source Serif Pro', serif;
+>>>>>>> Stashed changes
 }
 
 .cabeza {

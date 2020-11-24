@@ -39,6 +39,7 @@ export default function Meta() {
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
       <style>
       @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:wght@700&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
       </style>
     </Head>
   )
