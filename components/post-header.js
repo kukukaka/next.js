@@ -6,8 +6,8 @@ export default function PostHeader({ title, date }) {
     <>
       <PostTitle>{title}</PostTitle>
       <div className="max-w-2xl mx-auto">
-        <div className="mb-6 text-lg cabeza">
-          <em><DateFormatter dateString={date} /></em>
+        <div className="mb-6 text-lg cuerpo">
+          <DateFormatter dateString={date} />
         </div>
       </div>
     </>
