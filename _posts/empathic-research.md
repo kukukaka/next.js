@@ -1,7 +1,7 @@
 ---
-title: 'Open conversations are more empathic than interviews'
+title: '¿Cuándo dejé de escribir?'
 excerpt: 'En casa de mis padres guardo un archivador con más de 200 páginas de periodico con artículos escritos por mi. De vez en cuando, cuando vuelvo a casa, la abro y echo un vistazo. Siempre me paro en la portada de El Mundo con una foto mia y en otra portada de Público un día que me toco abrir el periodico tras una bomba de ETA en un cuartel de Burgos.. '
-date: '2020-11-27T21:35:07.322Z'
+date: '2020-11-16T05:35:07.322Z'
 author:
   name: kukukaka
 ---
