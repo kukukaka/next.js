@@ -1,14 +1,10 @@
 ---
 title: 'Conversations are more empathic than interviews'
-excerpt: 'Conversations are more empathic than interviews. Why we don't use them more while doing user reserch? That's one of the questions Indi Young asks in Practical Empathy'
+excerpt: 'Conversations are more empathic than interviews. Why we dont use them more while doing user reserch? That's one of the questions Indi Young asks in Practical Empathy'
 date: '2020-11-29T05:35:07.322Z'
 author:
   name: kukukaka
 ---
-<blockquote>Una pregunta que se repite en las entrevistas que me hacen es: "¿Cuándo empezaste a dibujar? Y siempre respondo lo mismo: ¿Cuándo dejásteis vosotros de dibujar? </blockquote>
-
-<a href="https://vimeo.com/27285817" title="Puño en MADinSpain 2011">Charla de Puño en MADinSpain 2011</a>
-
 Nunca he escrito demasiado bien. Estudié Periodismo y durante una época de mi vida gané mejores o peores salarios poniendo palabras seguidas. Pero nunca he estado interesado academicamente en el lenguaje frente a lo que cuenta y el ritmo con el que lo cuenta. 
 Aunque he escrito mucho. En casa de mis padres guardo un archivador con más de 200 páginas de periodico con artículos escritos por mi. De vez en cuando, cuando vuelvo a casa, la abro y echo un vistazo. Siempre me paro en la portada de El Mundo con una foto mia y en otra portada de Público un día que me toco abrir el periodico tras una bomba de ETA en un cuartel de Burgos. 
 
