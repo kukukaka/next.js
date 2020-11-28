@@ -37,10 +37,8 @@ export default function Meta() {
         content=""
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
-      <style>
-      @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Libre+Franklin:wght@700&display=swap');
-      @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
-      </style>
+      <link rel="preconnect" href="https://fonts.gstatic.com" />
+      <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@700&family=Source+Serif+Pro:ital,wght@0,400;1,300&display=swap" rel="stylesheet" />
     </Head>
   )
 }
