@@ -9,6 +9,9 @@
   font-family: 'Libre Franklin', sans-serif;
 } 
 
+link:hover {
+  color: indigo;
+}
 
 /* Start purging... */
 @tailwind components;
