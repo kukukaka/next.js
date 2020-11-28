@@ -12,3 +12,13 @@ Young, Indi; Young, Indi. Practical Empathy (pp. 124-125). Rosenfeld Media. Edic
 “We try to ignore opinions ... even in the qualitative sessions. Because opinions are essentially worthless. They don’t repeat. Opinions require a huge sample size to find trends. But cognitive behavior repeats over a very small sample size.
 
 Young, Indi; Young, Indi. Practical Empathy (p. 129). Rosenfeld Media. Edición de Kindle. 
+
+
+Empathy is built through the willingness to take time to discover the deep-down thoughts and reactions that make another person tick. It is purposely setting out to comprehend another person’s cognitive and emotional states. Empathy then gives you the ability to try on that person’s perspective—to think and react as she might in a given scenario.
+
+
+ You drop into a neutral frame of mind, try to discover the deeper reasons behind what she is saying, and shut down your own thinking and emotions
+
+
+To develop empathy, you listen for these three things: • Reasoning (inner thinking) • Reactions • Guiding principles
+
