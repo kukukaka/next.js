@@ -1,6 +1,6 @@
 ---
 title: 'Develop conversations, not interviews'
-excerpt: 'Conversations are more empathic than interviews. Why we don't use them more while doing user reserch? Thats one of the questions Indi Young asks in Practical Empathy'
+excerpt: 'Conversations are more empathic than interviews. Why we don´t use them more while doing user reserch? Thats one of the questions Indi Young asks in Practical Empathy'
 date: '2020-12-09T05:35:07.322Z'
 author:
   name: kukukaka
