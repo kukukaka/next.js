@@ -9,7 +9,7 @@ Most of the books I read have been aging at my Kindle Library for a while before
 
 If you have worked with me, you probably know how <b>intense</b> I'm about granting access to the research materials as raw as possible. <i>"Take notes as quotes". "Have you take notes as quotes?"."Can I listen to the recording?".</i> Quotes, quotes, quotes, ... 
 At CARTO we build this crazy Airtable with hundres of classified quotes that <a href="https://twitter.com/aroiki_" title="Aroa's Twitter" class="link">Aroa</a> managed where anyone from the company can search or even add. Are you a Sales Representative that was in a meeting and catched an interesting comment by the prospect? Send it to our Airtable. It was a monster to maintain, but I guess it summarizes how far I think we should go to avoid interpretation jumps early in the process. Cultural load, biases, etc; are always there even if we are aware of this.
-Indi Young goes in Practical Empathy way further than I do on building a <a href="../blog/empathic-research/generative.png" title="Generative research" class="link">generative process without personal interferences. 
+Indi Young goes in Practical Empathy way further than I do on building a <a href="../public/assets/blog/empathic-research/generative.png" title="Generative research" class="link">generative</a> process without personal interferences. 
 <blockquote>When you listen to someone telling a story, you fill in a lot of details that go unsaid. These “fillers” are based on your cultural and personal history—and probably half the time they're wrong.</blockquote>
 
 <blockquote>You drop into a neutral frame of mind, try to discover the deeper reasons behind what she is saying, and shut down your own thinking and emotions.</blockquote>
