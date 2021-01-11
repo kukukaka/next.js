@@ -5,8 +5,8 @@ date: '2021-01-12T05:35:07.322Z'
 author:
   name: kukukaka
 ---
-<h3>The Culture Map: Breaking Through the Invisible Boundaries of Global Business</h3>
-<i>Erin Meyer</i>
+<h2>The Culture Map: Breaking Through the Invisible Boundaries of Global Business</h2>
+<i>Erin Meyer</i><br />
 There were several books I read this year that made me reflect about some past decisions. The Culture Map was one of them. It helped me to understand better the different expectations people have at work based on their culture. <b>It's without any doubt the book I enjoyed the most this year.</b>
 The book is full of little stories about work situations where diversity caused some struggle. Meyer explains perfectly the context and real expectations of each one of the participants giving some culture background, and how it suggested their clients to unravel them. For example, they talk about how some cultures expet the boss to take the call and they follow, how some other culters have a more horizontal approach but differ on how fast the decision is taken and how much flexibility there is once the deicision is made.
 
@@ -14,7 +14,7 @@ If you work in a multicultural company or want to understand better how other pe
 
 
 <h3>Practical Empathy: For Collaboration and Creativity in Your Work</h3>
-<i>Indi Young</i>
+<i>Indi Young</i><br />
 I found this one quite interesting too. I wrote some words about it last month: [https://kuku.vercel.app/posts/empathic-research](https://kuku.vercel.app/posts/empathic-research)
 
 **Empowered**
