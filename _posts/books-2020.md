@@ -7,23 +7,35 @@ author:
 ---
 <h2>The Culture Map: Breaking Through the Invisible Boundaries of Global Business</h2>
 <i>Erin Meyer</i><br />
+
 There were several books I read this year that made me reflect about some past decisions. The Culture Map was one of them. It helped me to understand better the different expectations people have at work based on their culture. <b>It's without any doubt the book I enjoyed the most this year.</b>
+
 The book is full of little stories about work situations where diversity caused some struggle. Meyer explains perfectly the context and real expectations of each one of the participants giving some culture background, and how it suggested their clients to unravel them. For example, they talk about how some cultures expet the boss to take the call and they follow, how some other culters have a more horizontal approach but differ on how fast the decision is taken and how much flexibility there is once the deicision is made.
 
 If you work in a multicultural company or want to understand better how other people may think based on their cultural background, this is a must.
 
 
-<h3>Practical Empathy: For Collaboration and Creativity in Your Work</h3>
-<i>Indi Young</i><br />
-I found this one quite interesting too. I wrote some words about it last month: [https://kuku.vercel.app/posts/empathic-research](https://kuku.vercel.app/posts/empathic-research)
 
-**Empowered**
+<h2>Practical Empathy: For Collaboration and Creativity in Your Work</h2>
+<i>Indi Young</i><br />
+
+I found this book quite interesting too. I wrote some words about it last month: [https://kuku.vercel.app/posts/empathic-research](https://kuku.vercel.app/posts/empathic-research)
+
+
+
+<h2>EMPOWERED: Ordinary People, Extraordinary Products</h2>
+<i>Marty Cagan</i><br />
+
+OK. Oficially I didn't finish this one on 2020, but who cares.
 
 Interesting continuation by svpg to their previous book Inspired. It could be more or less useful based on your experience, but both of them are a must if you work in a company building digital products. 
 
-**The ride of a Lifetime (Robert Iger)**
 
-Autobiography of Disney CEO. It's interesting to read about the different acquistions he made like Pixar, Marvel, LucasArts, etc: but there is not much more than that inside.
+
+<h2>The ride of a Lifetime</h2>
+<i>(Robert Iger)</i><br />
+
+Autobiography of the Disney CEO. It's interesting to read about the different acquistions he made: Pixar, Marvel, LucasArts, etc. I but there is not much more than that inside.
 
 **The Great Mental Models Volume 1: General Thinking Concepts**
 
