@@ -14,14 +14,14 @@ The book is full of little stories about work situations where diversity caused 
 
 If you work in a multicultural company or want to understand better how other people may think based on their cultural background, this is a must.
 
-<br /><br /><br />
+<br /><br />
 
 <h2>Practical Empathy: For Collaboration and Creativity in Your Work</h2>
 <i>Indi Young</i><br />
 
-I found this book quite interesting too. <a href="https://kuku.vercel.app/posts/empathic-research" class="link" title="Develop conversations, not interviews">I wrote some words about it last month</a>.
+<a href="https://kuku.vercel.app/posts/empathic-research" class="link" title="Develop conversations, not interviews">I wrote some words about this one last month</a>.
 
-<br /><br /><br />
+<br /><br />
 
 
 <h2>EMPOWERED: Ordinary People, Extraordinary Products</h2>
@@ -29,48 +29,74 @@ I found this book quite interesting too. <a href="https://kuku.vercel.app/posts/
 
 OK. Oficially I didn't finish this one on 2020, but who cares.
 
-Interesting continuation by svpg to their previous book Inspired. It could be more or less useful based on your experience, but both of them are a must if you work in a company building digital products. 
+Interesting continuation by <a href="https://svpg.com/" class="link" title="Silicon Valley Product Group">SVPG</a> to the digital product bible: Inspired. It could be more or less deep based on your experience working on mature digital product teams, but if the first one was a must this one is a really good continuation focused on how to build and manage strong product teams and make the team grow. . 
 
-<br /><br /><br />
+<br /><br />
 
 
 <h2>The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company</h2>
 <i>Robert Iger</i><br />
 
-Autobiography of the Disney CEO. It's interesting to read about the different acquistions he made: Pixar, Marvel, LucasArts, etc. I but there is not much more than that inside.
+Not everyday you have to convince a board or Steve Jobs to buy Pixar. Or follow your shopping spree with Marvel, and LucasArts. I don't have the money or the power so I only got from it some gossip and anecdotes. 
 
-<p></p>
 
+<br /><br />
 
 
 <h2>The Great Mental Models Volume 1: General Thinking Concepts</h2>
 <i>Rhiannon Beaubien and Shane Parrish</i><br />
 
-I didn't like this one. I got a strong reaction against this book when I read it and I don't even remember really well why. I felt it was some phsicology bullshit for tech people. On the other hand a couple of friends really enjoy it, so it could be just me.
+I didn't like it a bit. I got a strong reaction when I read it as I felt it was some phsicology bullshit for tech people. On the other hand a couple of friends really enjoy it and I'm not even to close to be a phiscology expert.
 
-**Patria**
+<br /><br />
+
+
+<h2>Patria</h2>
+<i>Fernando Aramburu</i><br />
 
 I read this one just before HBO released their tv show based on the book because of the hype. It was a hard book to read for me. As a basque it make me notice some behaviors I have when I was a teenager that I never tought about and maybe it wouldn't correct. Nevermind, it open a ton of interesting conversations with my friends about the basque conflict without the strong opinions brought by the news.
 
-**La sombra del viento**
+<br /><br />
+
+
+<h2>La sombra del viento</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 The book I read the fastest this year. I started it just when I moved to Barcelona and the story and the places made me imagine the city and their people in the past. It was a beautiful story that made me imagine how was the city and their people in the past. I really enjoyed it
 
-**El juego del Ángel**
+<br /><br />
+
+
+<h2>El juego del Ángel</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 The second book of the triology. I loved the first one. I didn't like this second one much.
 
-**Ensayo sobre la cegera**
+<br /><br />
+
+
+<h2>Ensayo sobre la cegera</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 Probably this year was the one where I read more non-fiction or non work related books. This was not my favourite but it was recommended to me by someone special and it would make a great apocaliptic tv show if you ask me.
 
-**The Darkest Forest**
+<br /><br />
+
+
+<h2>The Darkest Forest</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 Second installment of the ultra popular sci-fi triology that I hope to finish this year. A lot has been writen about this books. A must.
 
-**You Don't Know JS Yet**
+<br /><br />
+
+
+<h2>You Don't Know JS Yet</h2>
 
 I took several months off this year to study and travel (perfect timing). One of the things on my list was learning a bit more of JavaScript so I read some of the books of this collection and made some courses and projects. "Projects". I really enjoyed them.
+
+<br /><br />
+
 
 ---
 
