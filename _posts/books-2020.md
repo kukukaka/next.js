@@ -14,13 +14,14 @@ The book is full of little stories about work situations where diversity caused 
 
 If you work in a multicultural company or want to understand better how other people may think based on their cultural background, this is a must.
 
-
+<p></p>
 
 <h2>Practical Empathy: For Collaboration and Creativity in Your Work</h2>
 <i>Indi Young</i><br />
 
-I found this book quite interesting too. I wrote some words about it last month: [https://kuku.vercel.app/posts/empathic-research](https://kuku.vercel.app/posts/empathic-research)
+I found this book quite interesting too. <a href="https://kuku.vercel.app/posts/empathic-research" class="link" title="Develop conversations, not interviews">I wrote some words about it last month</a>.
 
+<p></p>
 
 
 <h2>EMPOWERED: Ordinary People, Extraordinary Products</h2>
@@ -30,14 +31,20 @@ OK. Oficially I didn't finish this one on 2020, but who cares.
 
 Interesting continuation by svpg to their previous book Inspired. It could be more or less useful based on your experience, but both of them are a must if you work in a company building digital products. 
 
+<p></p>
 
 
-<h2>The ride of a Lifetime</h2>
-<i>(Robert Iger)</i><br />
+<h2>The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company</h2>
+<i>Robert Iger</i><br />
 
 Autobiography of the Disney CEO. It's interesting to read about the different acquistions he made: Pixar, Marvel, LucasArts, etc. I but there is not much more than that inside.
 
-**The Great Mental Models Volume 1: General Thinking Concepts**
+<p></p>
+
+
+
+<h2>The Great Mental Models Volume 1: General Thinking Concepts</h2>
+<i>Rhiannon Beaubien and Shane Parrish</i><br />
 
 I didn't like this one. I got a strong reaction against this book when I read it and I don't even remember really well why. I felt it was some phsicology bullshit for tech people. On the other hand a couple of friends really enjoy it, so it could be just me.
 
