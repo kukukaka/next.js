@@ -14,14 +14,14 @@ The book is full of little stories about work situations where diversity caused 
 
 If you work in a multicultural company or want to understand better how other people may think based on their cultural background, this is a must.
 
-<p></p>
+<br /><br /><br />
 
 <h2>Practical Empathy: For Collaboration and Creativity in Your Work</h2>
 <i>Indi Young</i><br />
 
 I found this book quite interesting too. <a href="https://kuku.vercel.app/posts/empathic-research" class="link" title="Develop conversations, not interviews">I wrote some words about it last month</a>.
 
-<p></p>
+<br /><br /><br />
 
 
 <h2>EMPOWERED: Ordinary People, Extraordinary Products</h2>
@@ -31,7 +31,7 @@ OK. Oficially I didn't finish this one on 2020, but who cares.
 
 Interesting continuation by svpg to their previous book Inspired. It could be more or less useful based on your experience, but both of them are a must if you work in a company building digital products. 
 
-<p></p>
+<br /><br /><br />
 
 
 <h2>The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company</h2>
