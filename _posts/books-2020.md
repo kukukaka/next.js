@@ -54,7 +54,8 @@ I didn't like it a bit. I got a strong reaction when I read it as I felt it was 
 <h2>Patria</h2>
 <i>Fernando Aramburu</i><br />
 
-I read this one just before HBO released their tv show based on the book because of the hype. It was a hard book to read for me. As a basque it make me notice some behaviors I have when I was a teenager that I never tought about and maybe it wouldn't correct. Nevermind, it open a ton of interesting conversations with my friends about the basque conflict without the strong opinions brought by the news.
+I read this one just before HBO released the TV show to avoid spoilers. I mean, maybe spoiler is not the word for something I experienced during my youth. 
+It was a hard book to read for me. It made me notice some behaviors I had while I was a teenager that I never stop to think about as an adult. It make me reflect about my views about violencetought about and maybe it wouldn't correct. Nevermind, it open a ton of interesting conversations with my friends about the basque conflict without the strong opinions brought by the news.
 
 <br /><br />
 
@@ -92,6 +93,7 @@ Second installment of the ultra popular sci-fi triology that I hope to finish th
 
 
 <h2>You Don't Know JS Yet</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 I took several months off this year to study and travel (perfect timing). One of the things on my list was learning a bit more of JavaScript so I read some of the books of this collection and made some courses and projects. "Projects". I really enjoyed them.
 
@@ -102,22 +104,31 @@ I took several months off this year to study and travel (perfect timing). One of
 
 Books I read more than half but I didn't finish
 
-**Thinking in Systems**
+<h2>Thinking in Systems</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 This was one of the Factorial Book Club reads. It's one of this books that explains super interesting things but after a couple of pages my eyes starts closing. It explains how systems work and the different interconnections. Super interesting stuff, so it has to be how it's written (and probably ysing the same glyphs over an over)
+<br /><br />
 
-**Obama**
+<h2>Obama</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 I bought is an audiobook because it was narrated by Obama. I found really boring how he won all those elections before becoming President but in these times his voice calms me a lot and help me sleep a couple of days a week.
+<br /><br />
 
-**Activate y cambia tu vida**
+<h2>Activate y cambia tu vida</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 Lockdowns are hard.
+<br /><br />
 
-**Database Internals**
+<h2>Database Internals</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 My precious job was a lot about PosGres, BigQuery, Redshift, ... and databases. I want edto learn a bit more about their inner workings so I read this book.
+<br /><br />
 
-**Eloquent Javascript, 3rd Edition: A Modern Introduction to Programming**
+<h2>Eloquent Javascript, 3rd Edition: A Modern Introduction to Programming</h2>
+<i>Carlos Ruiz Zafón</i><br />
 
 I started working before being able to finish it, but it's on my pending list for the beginning of this year.
