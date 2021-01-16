@@ -38,7 +38,7 @@ It could be more or less deep based on your experience working on mature digital
 <h2>The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company</h2>
 <i>Robert Iger</i><br />
 
-Not every day, you have to convince your company board or Steve Jobs to buy Pixar. Or follow your shopping spree with Marvel and LucasArts. I don't have the money or the power, so I only got some gossip and anecdotes.
+Not every day you have to convince your company board or Steve Jobs to buy Pixar. Or follow your shopping spree with Marvel and LucasArts. I don't have the money or the power, so I only got some gossip and anecdotes.
 
 <br /><br />
 
@@ -47,9 +47,9 @@ Not every day, you have to convince your company board or Steve Jobs to buy Pixa
 <i>Rhiannon Beaubien and Shane Parrish</i><br />
 
 I was not too fond of it. 
-I got a strong reaction against it when I first read it as I felt it was some psychology bullshit for tech people. Mental models are an exciting topic, but I think it oversimplifies them, and talking about them without context is not acceptable. Trying to talk about magic formulas about how people think requires a bit more.
+I got a strong reaction against it when I first read it as I felt it was some human behavior bullshit for tech people. Mental models are an exciting topic, but I think it oversimplifies them, and talking about them without context is not acceptable. Trying to talk about magic formulas about how people think requires a bit more.
 
-On the other hand, a couple of friends enjoy it, and I'm not even close to being a physiology expert.
+On the other hand, a couple of friends enjoy it, and I'm not even close to being a human behavior expert.
 <br /><br />
 
 
@@ -58,7 +58,8 @@ On the other hand, a couple of friends enjoy it, and I'm not even close to being
 
 I read this one just before HBO released the TV show to avoid spoilers. I mean, maybe spoiler is not the word for something I experienced during my youth. 
 
-It was a hard book to read for me. It made me notice some behaviors I had while I was a teenager that I never before I stop and think about them as an adult. It made me reflect on my views about violence when I was younger, and things look a bit less severe than they were. 
+It was a hard book to read for me. It made me notice some behaviors I had while I was a teenager that I never before stop and think about them as an adult. It made me reflect on my views about violence when I was younger, and things look a bit less severe than they were. 
+
 Nevermind, it opened during this Coronavirus-centric year a ton of interesting conversations with my friends about the Basque Conflict without the strong opinions brought usually by the news.
 
 <br /><br />
@@ -110,8 +111,10 @@ Books I read more than half, but I didn't finish.
 <h2>Thinking in Systems: A Primer</h2>
 <i>Donella Meadows</i><br />
 
-This was one of the Factorial Book Club reads. One of these books that explains super exciting things but made my eyes start closing after a couple of pages. It explains how systems work and their different interconnections. How changes in one place could push significant changes somewhere else. Super exciting stuff, so it has to be how it's written (and probably using the same glyphs over and over).
+This was one of the Factorial Book Club reads. One of these books that explains super exciting things but made my eyes start closing after a couple of pages. It explains how systems work and their different interconnections. How changes in one place could push significant changes somewhere else. Super exciting stuff, so it has to be how it's written, my attention span, or probably using the same glyphs over and over.
+
 <br /><br />
+
 
 <h2>A Promised Land</h2>
 <i>Barack Obama</i><br />
@@ -120,17 +123,22 @@ I bought it an audiobook because Obama narrated it. I found it boring how he won
 
 <br /><br />
 
+
 <h2>Actívate: Y cambiará tu vida</h2>
 <i>Crys Dyaz</i><br />
 
 Lockdowns are hard.
+
 <br /><br />
+
 
 <h2>Database Internals: A Deep Dive Into How Distributed Data Systems Work</h2>
-<i>CAlex Petrov</i><br />
+<i>Alex Petrov</i><br />
 
-My previous job was a lot about Postgres, BigQuery, Redshift, and databases. I wanted to learn a bit more about their inner workings, so I read this book as far as I could.
+My previous job was a lot about Postgres, BigQuery, and databases. I wanted to learn a bit more about their inner workings, so I read this book as far as I could.
+
 <br /><br />
+
 
 <h2>Eloquent Javascript, 3rd Edition: A Modern Introduction to Programming</h2>
 <i>Marijn Haverbeke</i><br />
