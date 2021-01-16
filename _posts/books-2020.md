@@ -1,6 +1,6 @@
 ---
 title: 'Books I read during 2020'
-excerpt: 'Conversations are more empathic than interviews. Why we don´t use them more often while doing user reserch? Thats one of the questions Indi Young asks in Practical Empathy'
+excerpt: 'Title is quite descriptive I guess.'
 date: '2021-01-12T05:35:07.322Z'
 author:
   name: kukukaka
@@ -8,11 +8,11 @@ author:
 <h2>The Culture Map: Breaking Through the Invisible Boundaries of Global Business</h2>
 <i>Erin Meyer</i><br />
 
-There were several books I read this year that made me reflect about some past decisions. The Culture Map was one of them. It helped me to understand better the different expectations people have at work based on their culture. <b>It's without any doubt the book I enjoyed the most this year.</b>
+There were several books I read this year that made me reflect on some personal past decisions. The Culture Map was one of them. It helped me to understand better the different expectations people have at work based on their culture. <b>It's without any doubt the book I enjoyed the most this year.</b>
 
-The book is full of little stories about work situations where diversity caused some struggle. Meyer explains perfectly the context and real expectations of each one of the participants giving some culture background, and how it suggested their clients to unravel them. For example, they talk about how some cultures expet the boss to take the call and they follow, how some other culters have a more horizontal approach but differ on how fast the decision is taken and how much flexibility there is once the deicision is made.
+The book is full of little stories about work situations where diversity caused some struggle. Meyer perfectly explains each participant's context and real expectations, giving some cultural background and how it suggested their clients to unravel those. For example, they talk about how some cultures expect the boss to make the call. Then she proceeds to explain how some other cultures have a more horizontal approach but differ on how fast the decision is taken and how much flexibility there is once the decision is made.
 
-If you work in a multicultural company or want to understand better how other people may think based on their cultural background, this is a must.
+There are hundreds of topics and real examples like this in the book. If you work in a multicultural company or you want to understand how other people may think based on their cultural background, this is a must.
 
 <br /><br />
 
@@ -27,9 +27,10 @@ If you work in a multicultural company or want to understand better how other pe
 <h2>EMPOWERED: Ordinary People, Extraordinary Products</h2>
 <i>Marty Cagan</i><br />
 
-OK. Oficially I didn't finish this one on 2020, but who cares.
+OK. Officially I didn't finish this one in 2020, but who cares.
 
-Interesting continuation by <a href="https://svpg.com/" class="link" title="Silicon Valley Product Group">SVPG</a> to the digital product bible: Inspired. It could be more or less deep based on your experience working on mature digital product teams, but if the first one was a must this one is a really good continuation focused on how to build and manage strong product teams and make the team grow. . 
+EMPOWERED is an enjoyable continuation by <a href="https://svpg.com/" class="link" title="Silicon Valley Product Group">SVPG</a> to their digital product bible: Inspired. 
+It could be more or less deep based on your experience working on mature digital product teams. Still, if the first one was a must, this one is an excellent continuation focused on building and managing strong product teams and making them grow. 
 
 <br /><br />
 
@@ -37,8 +38,7 @@ Interesting continuation by <a href="https://svpg.com/" class="link" title="Sili
 <h2>The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company</h2>
 <i>Robert Iger</i><br />
 
-Not everyday you have to convince a board or Steve Jobs to buy Pixar. Or follow your shopping spree with Marvel, and LucasArts. I don't have the money or the power so I only got from it some gossip and anecdotes. 
-
+Not every day, you have to convince your company board or Steve Jobs to buy Pixar. Or follow your shopping spree with Marvel and LucasArts. I don't have the money or the power, so I only got some gossip and anecdotes.
 
 <br /><br />
 
@@ -46,8 +46,10 @@ Not everyday you have to convince a board or Steve Jobs to buy Pixar. Or follow 
 <h2>The Great Mental Models Volume 1: General Thinking Concepts</h2>
 <i>Rhiannon Beaubien and Shane Parrish</i><br />
 
-I didn't like it a bit. I got a strong reaction when I read it as I felt it was some phsicology bullshit for tech people. On the other hand a couple of friends really enjoy it and I'm not even to close to be a phiscology expert.
+I was not too fond of it. 
+I got a strong reaction against it when I first read it as I felt it was some psychology bullshit for tech people. Mental models are an exciting topic, but I think it oversimplifies them, and talking about them without context is not acceptable. Trying to talk about magic formulas about how people think requires a bit more.
 
+On the other hand, a couple of friends enjoy it, and I'm not even close to being a physiology expert.
 <br /><br />
 
 
@@ -55,7 +57,9 @@ I didn't like it a bit. I got a strong reaction when I read it as I felt it was 
 <i>Fernando Aramburu</i><br />
 
 I read this one just before HBO released the TV show to avoid spoilers. I mean, maybe spoiler is not the word for something I experienced during my youth. 
-It was a hard book to read for me. It made me notice some behaviors I had while I was a teenager that I never stop to think about as an adult. It make me reflect about my views about violencetought about and maybe it wouldn't correct. Nevermind, it open a ton of interesting conversations with my friends about the basque conflict without the strong opinions brought by the news.
+
+It was a hard book to read for me. It made me notice some behaviors I had while I was a teenager that I never before I stop and think about them as an adult. It made me reflect on my views about violence when I was younger, and things look a bit less severe than they were. 
+Nevermind, it opened during this Coronavirus-centric year a ton of interesting conversations with my friends about the Basque Conflict without the strong opinions brought usually by the news.
 
 <br /><br />
 
@@ -63,72 +67,72 @@ It was a hard book to read for me. It made me notice some behaviors I had while 
 <h2>La sombra del viento</h2>
 <i>Carlos Ruiz Zafón</i><br />
 
-The book I read the fastest this year. I started it just when I moved to Barcelona and the story and the places made me imagine the city and their people in the past. It was a beautiful story that made me imagine how was the city and their people in the past. I really enjoyed it
-
+The book I read the fastest this year. I started it just when I moved to Barcelona, and the story and the places made me imagine the city and its people in the past. I loved it.
 <br /><br />
 
 
 <h2>El juego del Ángel</h2>
 <i>Carlos Ruiz Zafón</i><br />
 
-The second book of the triology. I loved the first one. I didn't like this second one much.
+The second part of the book above. I hated it.
 
 <br /><br />
 
 
 <h2>Ensayo sobre la cegera</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<i>José Saramago</i><br />
 
-Probably this year was the one where I read more non-fiction or non work related books. This was not my favourite but it was recommended to me by someone special and it would make a great apocaliptic tv show if you ask me.
+Probably this year was the one where I read more non-fiction or non-work-related books. It took me way too much to finish it, but it was recommended to me by someone special, and it would make a fantastic apocalyptic TV show if you ask me.
 
 <br /><br />
 
 
 <h2>The Darkest Forest</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<i>Liu Cixin</i><br />
 
-Second installment of the ultra popular sci-fi triology that I hope to finish this year. A lot has been writen about this books. A must.
+The Dark Forest is the second installment of the utterly popular sci-fi trilogy that I hope to finish this year. A lot has been written about these books. It's a must.
 
 <br /><br />
 
 
 <h2>You Don't Know JS Yet</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<i>Kyle Simpson</i><br />
 
-I took several months off this year to study and travel (perfect timing). One of the things on my list was learning a bit more of JavaScript so I read some of the books of this collection and made some courses and projects. "Projects". I really enjoyed them.
+I took several months off this year to study and travel (perfect timing). One of the things on my list was learning a bit more about JavaScript.  I read some of the books of this collection and made some courses and projects. "Projects." 
 
 <br /><br />
 
 
 ---
 
-Books I read more than half but I didn't finish
+Books I read more than half, but I didn't finish.
 
-<h2>Thinking in Systems</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<h2>Thinking in Systems: A Primer</h2>
+<i>Donella Meadows</i><br />
 
-This was one of the Factorial Book Club reads. It's one of this books that explains super interesting things but after a couple of pages my eyes starts closing. It explains how systems work and the different interconnections. Super interesting stuff, so it has to be how it's written (and probably ysing the same glyphs over an over)
+This was one of the Factorial Book Club reads. One of these books that explains super exciting things but made my eyes start closing after a couple of pages. It explains how systems work and their different interconnections. How changes in one place could push significant changes somewhere else. Super exciting stuff, so it has to be how it's written (and probably using the same glyphs over and over).
 <br /><br />
 
-<h2>Obama</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<h2>A Promised Land</h2>
+<i>Barack Obama</i><br />
 
-I bought is an audiobook because it was narrated by Obama. I found really boring how he won all those elections before becoming President but in these times his voice calms me a lot and help me sleep a couple of days a week.
+I bought it an audiobook because Obama narrated it. I found it boring how he won all those elections before becoming President, but in these times, Obamas voice helps me sleep a couple of days a week.
+
 <br /><br />
 
-<h2>Activate y cambia tu vida</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<h2>Actívate: Y cambiará tu vida</h2>
+<i>Crys Dyaz</i><br />
 
 Lockdowns are hard.
 <br /><br />
 
-<h2>Database Internals</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<h2>Database Internals: A Deep Dive Into How Distributed Data Systems Work</h2>
+<i>CAlex Petrov</i><br />
 
-My precious job was a lot about PosGres, BigQuery, Redshift, ... and databases. I want edto learn a bit more about their inner workings so I read this book.
+My previous job was a lot about Postgres, BigQuery, Redshift, and databases. I wanted to learn a bit more about their inner workings, so I read this book as far as I could.
 <br /><br />
 
 <h2>Eloquent Javascript, 3rd Edition: A Modern Introduction to Programming</h2>
-<i>Carlos Ruiz Zafón</i><br />
+<i>Marijn Haverbeke</i><br />
 
-I started working before being able to finish it, but it's on my pending list for the beginning of this year.
+I started working before finishing it, but it's on my pending list for the beginning of this year.
