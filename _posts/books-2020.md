@@ -1,7 +1,7 @@
 ---
 title: 'Books I read during 2020'
 excerpt: 'Title is quite descriptive I guess.'
-date: '2021-01-12T05:35:07.322Z'
+date: '2021-01-16T05:35:07.322Z'
 author:
   name: kukukaka
 ---
